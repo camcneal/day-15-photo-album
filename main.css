@@ -2,14 +2,27 @@ img {
   width: 33.3%;
 }
 
- /*body {
-   background: black;
- }
+body {
+  background-color: black;
+
+}
+
+.album {
+  
+}
+
+header {
+  padding: 2em;
+  background: black;
+  color: white;
+  text-align: center;
+  font-size: 2em;
+}
 
 li {
   text-decoration: none;
   list-style-type: none;
-}*/
+}
 
 /*header {
   background: black;
