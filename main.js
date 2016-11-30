@@ -146,7 +146,7 @@ function makeAlbumDivs(arr) {
             console.log(e.target);
             console.log(location);
             if (location.hash === '') {
-                location.hash = '#' + image.name;
+                location.hash = '' && '#' + image.name;
             } else {
                 location.hash = location.hash + '/' + (i + 1);
 

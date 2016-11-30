@@ -3,13 +3,15 @@ img {
 }
 
 body {
-  background-color: black;
+  background-color: white;
 
 }
 
 .album {
-  
+
 }
+
+
 
 header {
   padding: 2em;
@@ -19,11 +21,20 @@ header {
   font-size: 2em;
 }
 
-li {
+ul {
   text-decoration: none;
   list-style-type: none;
+
+}
+
+.sidebar {
+
+  width: 25%;
+  float: left;
+  position: relative;
+  padding-bottom: 28rem;
 }
 
 /*header {
-  background: black;
+  background: white;
 }*/
